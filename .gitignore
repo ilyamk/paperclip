@@ -32,6 +32,11 @@ server/src/**/*.d.ts
 server/src/**/*.d.ts.map
 tmp/
 
+# Tauri
+src-tauri/target/
+src-tauri/gen/
+src-tauri/bundle-app/
+
 # Editor / tool temp files
 *.tmp
 .vscode/
